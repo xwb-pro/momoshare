@@ -19,7 +19,8 @@ const MMSLS = [
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=14652781&pid=3f4a52e1f69d9528824fdc6a85fdbc15&tid=cfb653c5d3488389b093dd020adf03ba"
+    "https://www.maimemo.com/share/page?uid=33834599&pid=9ab1cdfcd0be44b6a1ca45b7176efe34&tid=8180f1518f99f504977f00169e944a92",
+    "https://www.maimemo.com/share/page?uid=14652781&pid=9ab1cdfcd0be44b6a1ca45b7176efe34&tid=7e5311d493b69ee993d4841d0d37ef91"
   ]
   /**
    * 生成随机数字
